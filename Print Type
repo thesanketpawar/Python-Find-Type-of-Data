@@ -1,0 +1,3 @@
+char=['Sanket',15,2.5,'J.k']
+for i in char:
+  print(type(i))
